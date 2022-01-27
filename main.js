@@ -1,0 +1,1 @@
+document.body.innerHTML = '<div><p>Today is : Friday.</p><p>Current time is : 4 PM : 50 : 22</p></div>'
