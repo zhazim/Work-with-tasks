@@ -1,7 +1,7 @@
 function clock(){
     let date = new Date()
            year = date.getFullYear()
-           month = date.getMonth(2)
+           month = date.getMonth()
            dates = date.getDate()
            hours = (date.getHours() < 10) ? '0' + date.getHours() : date.getHours()
            minutes = (date.getMinutes() < 10) ? '0' + date.getMinutes() : date.getMinutes()
